@@ -1,4 +1,4 @@
-Perfeito! Aqui está o README.md ajustado com os seus links reais de **LinkedIn**, **GitHub** e **E-mail**:
+
 
 ---
 
