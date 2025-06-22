@@ -1,10 +1,10 @@
-Aqui está uma versão organizada, mais limpa e profissional do seu README.md para o projeto **JWTeste - API de Autenticação e Autorização**:
+Perfeito! Aqui está o README.md ajustado com os seus links reais de **LinkedIn**, **GitHub** e **E-mail**:
 
 ---
 
 # JWTeste - API de Autenticação e Autorização 🔐
 
-Uma API robusta de autenticação e autorização desenvolvida com **Node.js**, **Express** e **TypeScript**, utilizando **JWT** para autenticação, **bcrypt** para segurança de senhas, **Prisma ORM** com **PostgreSQL** para persistência de dados, e **Docker** para conteinerização. Inclui **controle de acesso baseado em papéis (RBAC)**.
+Uma API robusta de autenticação e autorização desenvolvida com **Node.js**, **Express** e **TypeScript**, utilizando **JWT** para autenticação, **bcrypt** para segurança de senhas, **Prisma ORM** com **PostgreSQL** para persistência de dados e **Docker** para conteinerização. Inclui **controle de acesso baseado em papéis (RBAC)**.
 
 ---
 
@@ -85,7 +85,7 @@ Este projeto backend foi desenvolvido para fornecer um **sistema de autenticaç�
 ### 1. Clonar o Repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/JWTTESTE.git
+git clone https://github.com/GabrielF0900/JWTTESTE.git
 cd JWTTESTE/Backend
 ```
 
@@ -233,10 +233,11 @@ Este projeto está licenciado sob a **MIT License**.
 
 ## 📧 Contato
 
-* **Seu Nome:** [seu.email@example.com](mailto:seu.email@example.com)
-* **GitHub:** [https://github.com/seu-usuario](https://github.com/seu-usuario)
-* **LinkedIn (opcional):** [https://linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+* **Nome:** Gabriel Falcão
+* **E-mail:** [Gabrielcfonline0900@gmail.com](mailto:Gabrielcfonline0900@gmail.com)
+* **GitHub:** [https://github.com/GabrielF0900](https://github.com/GabrielF0900)
+* **LinkedIn:** [https://www.linkedin.com/in/gabrielfalcaodev/](https://www.linkedin.com/in/gabrielfalcaodev/)
 
 ---
 
-Se quiser, posso te gerar o arquivo `README.md` pronto para download. Quer?
+
